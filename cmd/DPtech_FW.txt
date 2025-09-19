@@ -1,0 +1,17 @@
+terminal line 0
+show version
+show running-config
+show memory 
+show cpu-usage
+show environment 
+show logging
+show logging diaglog recent
+show ntp associations
+show ntp status
+show interface status
+show interface
+show ip interface brief 
+show ip route
+dir
+terminal line 24
+

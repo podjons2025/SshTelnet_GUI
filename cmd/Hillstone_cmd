@@ -1,0 +1,19 @@
+terminal length 0
+show version
+show config
+show environment
+show session generic
+show cpu
+show memory
+show logging event
+show logging alarm
+show logging security
+show ip route
+show tech-support
+show ha group 0
+show ha sync state config 
+show ad zone untrust configuration
+show ad zone untrust statistics
+show config
+show service userdefined
+terminal length 24

@@ -1,0 +1,36 @@
+sys
+user-interface vty 0 4
+line vty 0 4
+screen-length 0
+quit
+quit
+display device
+display device manuinfo
+display power
+display fan
+display environment
+display cpu
+display memory
+display version
+display clock
+display logbuffer
+display mac-address
+display arp
+display ip routing-table
+display current-configuration
+display ftp-server
+display debugging
+display interface
+display vlan
+display ip interface
+display ntp-service status
+dis link-aggregation verbose 
+dis stp brief
+display vrrp statistics
+dir
+sys
+user-interface vty 0 4
+line vty 0 4
+screen-length 24
+quit
+quit

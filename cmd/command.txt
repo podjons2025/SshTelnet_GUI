@@ -1,0 +1,13 @@
+sys
+user-interface vty 0 4
+line vty 0 4
+screen-length 0
+quit
+quit
+display version
+sys
+user-interface vty 0 4
+line vty 0 4
+screen-length 24
+quit
+quit

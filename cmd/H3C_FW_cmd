@@ -1,0 +1,16 @@
+sys
+user-interface vty 0 4
+screen-length 0
+quit
+quit
+display current-configuration
+display ip http
+display logbuffer size 1
+display ntp status
+display password
+display password-control
+sys
+user-interface vty 0 4
+screen-length 20
+quit
+quit

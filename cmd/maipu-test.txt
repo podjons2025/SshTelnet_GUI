@@ -1,0 +1,3 @@
+more off
+show running-config
+more on

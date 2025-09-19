@@ -1,0 +1,7 @@
+screen-length disable
+
+display current-configuration
+
+display interface brief
+
+undo screen-length disable

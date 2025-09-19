@@ -1,0 +1,23 @@
+terminal length 0
+show logging
+show version
+show running-config
+show inventory
+show environment summary
+show processes cpu sorted
+show processes memory sorted
+show memory statistics
+show clock
+show ntp associations
+dir all-filesystems
+show bootvar
+show cdp neighbors
+show ip interface brief
+show ip ospf neighbor
+show ip route ospf
+show ip route bgp
+show ip route summary
+show ip route
+show ip bgp summary 
+show ip bgp 
+terminal length 24

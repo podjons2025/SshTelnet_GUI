@@ -1,0 +1,15 @@
+more off
+show version detail
+show running-config
+show cpu monitor 
+show memory utilization 
+show environment 
+show ntp status
+show ip interface brief
+show ip interface
+show arp
+show mac-address all
+show ip ospf neighbor
+show ip route
+show logging
+more on

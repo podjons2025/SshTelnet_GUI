@@ -1,0 +1,3 @@
+terminal length 0
+show running-config
+terminal default length

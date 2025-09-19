@@ -1,0 +1,54 @@
+n
+sys
+user-interface vty 0 4
+line vty 0 4
+screen-length 0
+quit
+quit
+display current-configuration
+display device manuinfo 
+display cpu-usage
+display memory
+display power
+display fan
+display environment
+display device manuinfo
+display debugging
+display ntp status
+display ip http
+display ip https
+display arp all
+display arp all count
+display arp timer aging
+display interface
+display interface brief
+display ip interface brief
+display ntp-service status
+display snmp-agent trap-list
+display snmp-agent sys-info
+display snmp-agent community write
+display snmp-agent community read
+display ip http
+display ip https
+display dldp
+display logbuffer summary
+display logbuffer
+display cpu-usage
+display memory
+display memory slot 0
+display lldp neighbor-information
+display patch information
+display acl resource slot 0
+display vrrp brief
+display irf
+display irf configuration
+diaplay irf topology
+display mad
+display ip routing-table statistics
+display ip routing-table
+sys
+user-interface vty 0 4
+line vty 0 4
+screen-length 20
+quit
+quit

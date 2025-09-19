@@ -1,0 +1,22 @@
+terminal length 0
+show running-config
+show version
+show redundancy status
+show environment power
+show environment 
+show processes cpu 
+show processes memory 
+show system resources
+show spanning-tree
+show fex
+show inventory 
+show ip ospf neighbors 
+show ip route 
+show ip route summary
+show hsrp brief 
+show ip interface brief 
+show interface description 
+show ntp peers
+show clock
+show logging
+terminal length 24

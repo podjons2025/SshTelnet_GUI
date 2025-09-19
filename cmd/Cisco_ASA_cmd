@@ -1,0 +1,25 @@
+terminal pager 0
+show version
+show inventory
+show running-config
+show route
+show interface
+show arp
+show ntp status
+show cpu usage
+show memory
+show failover
+show failover history
+show failover statistics
+show resource usage
+show run access-list
+show access-list | include element
+show access-list
+show asp drop
+show blocks
+show conn count
+show perfmon
+show xlate count
+show xlate
+show logging
+terminal pager 24
